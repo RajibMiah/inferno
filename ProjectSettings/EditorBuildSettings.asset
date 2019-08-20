@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/MainManu.unity
+    guid: 7b3286afec610914d83684384f9a2c10
+  - enabled: 1
+    path: Assets/_Scenes/infinity_challenge.unity
+    guid: ce58dcb67c7fb68459568af8a7d99ad0
+  - enabled: 1
+    path: Assets/_Scenes/challenge_1.unity
+    guid: 5a70125850d00614d81220e8bbe65f8d
+  m_configObjects: {}

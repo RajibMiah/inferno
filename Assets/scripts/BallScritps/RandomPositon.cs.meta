@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b08db2e0ca16b1944a9c8e8a56622a81
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - collDetect: {instanceID: 0}
+  - Fire: {fileID: 184238, guid: eb898178195497444b9c12cc13c82416, type: 3}
+  - coin1: {instanceID: 0}
+  - coin3: {instanceID: 0}
+  - coin5: {instanceID: 0}
+  - coin25: {instanceID: 0}
+  - busket5: {instanceID: 0}
+  - busket1: {instanceID: 0}
+  - score: {instanceID: 0}
+  - ss: {instanceID: 0}
+  - ballCount: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 418af1225b09a2042a1c315a24342e38
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - combo_anim: {instanceID: 0}
+  - hand_anim: {fileID: 179, guid: 4dc648667dd3cb14eaeea26fc0d4c362, type: 3}
+  - cd: {instanceID: 0}
+  - rp: {instanceID: 0}
+  - ballCount: {instanceID: 0}
+  - score: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
